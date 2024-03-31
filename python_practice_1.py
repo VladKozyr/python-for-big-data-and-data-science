@@ -1,0 +1,1 @@
+print("Vladyslav Kozyr, IPZ_Group_9")
